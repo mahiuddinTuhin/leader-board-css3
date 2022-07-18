@@ -6,6 +6,7 @@ font-family: 'Roboto', sans-serif; */
 body {
   font-family: "Poppins", sans-serif;
   background-color: #f3f1ff;
+  text-align: center;
 }
 
 main {
@@ -141,7 +142,7 @@ hr {
   background-color: #ffe4e8;
   border-radius: 30px;
   color: #ff4a60;
-  padding: 5px 6px;
+  padding: 5px 15px;
 }
 
 /* -------------------------------
@@ -170,6 +171,7 @@ hr {
     -moz-box-shadow: 3px 3px 13px -2px rgba(0, 0, 0, 0.69);
     align-items: center;
     margin: 10px;
+    padding-top: 15px;
   }
 
   .courses {
